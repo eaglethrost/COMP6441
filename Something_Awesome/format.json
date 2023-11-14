@@ -1,0 +1,17 @@
+{
+    "pkt_number": 1,
+    "time": "DATE_TIME",
+    "protocol": "TCP",
+    "ip_src": "10.248.103.18",
+    "ip_dst": "34.120.32.134",
+    "port_src": 80,
+    "port_dst": 23,
+    "payload_size": 4000,
+    "payload": 
+    {
+        "size": 40,
+        "hex": 
+            "17 03 ...",
+        "value": "....."
+    }
+}
